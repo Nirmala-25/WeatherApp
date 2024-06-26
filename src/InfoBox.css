@@ -1,0 +1,14 @@
+.InfoBox{
+    text-align: center;
+    
+}
+.cardcontainer{
+    display: flex;
+    justify-content: center;
+    
+}
+.cardcontainer .MuiCard-root {
+    border: 2px solid rgb(46, 7, 14); /* Example: Black border */
+    border-radius: 8px;     /* Optional: Add rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: Add a shadow */
+  }
